@@ -2,4 +2,4 @@
 
 Scrapped data describing the balloons featured over the years in Macy's Thanksgiving Day Parade.
 
-Data from [Wikipedia](https://en.wikipedia.org/wiki/Macy%27s_Thanksgiving_Day_Parade).
+Data from [Wikipedia](https://en.wikipedia.org/wiki/Macy%27s_Thanksgiving_Day_Parade) and [Macy's Wiki Fandom](https://macysthanksgiving.fandom.com/).
